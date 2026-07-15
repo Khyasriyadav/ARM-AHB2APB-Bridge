@@ -98,6 +98,6 @@ B.Tech – Electronics and Communication Engineering
 SRM Institute of Science and Technology, AP
 
 GitHub: https://github.com/Khyasriyadav
-https://www.linkedin.com/in/khyathi-sri-yadav
+Linkdin: https://www.linkedin.com/in/khyathi-sri-yadav
 
 ---
