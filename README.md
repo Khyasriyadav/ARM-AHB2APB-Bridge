@@ -171,11 +171,6 @@ Waveforms and coverage reports are available in `docs/` (add your screenshots/re
 
 ## 🧑‍💻 Author
 
-**Your Name**
-_Add your GitHub/LinkedIn/contact info here_
+YADAV KHYATHI SRI 
+https://github.com/Khyasriyadav / www.linkedin.com/in/khyathi-sri-yadav
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
