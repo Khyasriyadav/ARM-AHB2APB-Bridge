@@ -94,7 +94,7 @@ run -all
 
 YADAV KHYATHI SRI
 
-B.Tech – Electronics and Communication Engineering
+B.Tech – Electronics and Communication Engineering,
 SRM Institute of Science and Technology, AP
 
 GitHub: https://github.com/Khyasriyadav
